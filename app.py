@@ -63,7 +63,7 @@ except json.JSONDecodeError:
     print("ERROR: Could not decode prices.json. Check syntax.")
 
 
-MODEL_NAME = "gemini-1.5-flash-latest"
+MODEL_NAME = "gemini-2.5-flash"
 GEMINI_API_URL = f"https://generativelanguage.googleapis.com/v1beta/models/{MODEL_NAME}:generateContent?key={GEMINI_API_KEY}"
 
 
