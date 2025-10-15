@@ -4,7 +4,7 @@ import json
 import requests
 from flask import Flask, request, jsonify, render_template
 from flask_cors import CORS
-import cloudinary
+import cloudinary 
 import cloudinary.uploader
 import firebase_admin
 from firebase_admin import credentials, firestore
@@ -342,4 +342,5 @@ def planner():
 
 if __name__ == "__main__":
     print("Starting Flask server...")
+
     app.run(host='0.0.0.0', port=5000, debug=True)
