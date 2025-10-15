@@ -1,5 +1,5 @@
 🌿 AI Agri Assistant
-An intelligent, full-stack web application designed to be a modern farmer's digital companion. AI Agri Assistant leverages the power of AI and real-time data to provide crucial insights, from crop disease detection to market price analysis, helping farmers make informed decisions and improve productivity.
+An intelligent, full-stack web application designed to be a modern farmer's digital companion. AI Agri Assistant leverages the power of AI and real-time data to provide crucial insights, from crop disease detection to market price analysis, helping farmers make informed decisions and improve productivity. 
 
 ✨ Core Features
 This platform is packed with features designed to assist farmers at every stage of their work:
