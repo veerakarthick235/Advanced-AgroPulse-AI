@@ -1,4 +1,4 @@
-# 🌿 AI Agri Assistant
+# 🌿 AgroPulse AI
 
 An intelligent, full-stack web application designed to be a modern farmer's digital companion. AI Agri Assistant leverages the power of AI and real-time data to provide crucial insights, from crop disease detection to market price analysis, helping farmers make informed decisions and improve productivity.
 
@@ -58,7 +58,7 @@ An intelligent, full-stack web application designed to be a modern farmer's digi
 1. **Clone the repository:**
 
 ```bash
-git clone https://github.com/your-username/your-repo-name.git
+git clone https://github.com/veerakarthick235/AgroPulse AI.git
 cd your-repo-name
 ```
 
